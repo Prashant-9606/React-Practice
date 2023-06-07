@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/deployNewApp/static/css/main.e6c13ad2.css",
-    "main.js": "/deployNewApp/static/js/main.ac5cc46f.js",
-    "static/js/787.ec704a7a.chunk.js": "/deployNewApp/static/js/787.ec704a7a.chunk.js",
-    "index.html": "/deployNewApp/index.html",
-    "main.e6c13ad2.css.map": "/deployNewApp/static/css/main.e6c13ad2.css.map",
-    "main.ac5cc46f.js.map": "/deployNewApp/static/js/main.ac5cc46f.js.map",
-    "787.ec704a7a.chunk.js.map": "/deployNewApp/static/js/787.ec704a7a.chunk.js.map"
+    "main.css": "/Prashant-9606/pageUpload/static/css/main.e6c13ad2.css",
+    "main.js": "/Prashant-9606/pageUpload/static/js/main.b1b19ab6.js",
+    "static/js/787.ec704a7a.chunk.js": "/Prashant-9606/pageUpload/static/js/787.ec704a7a.chunk.js",
+    "index.html": "/Prashant-9606/pageUpload/index.html",
+    "main.e6c13ad2.css.map": "/Prashant-9606/pageUpload/static/css/main.e6c13ad2.css.map",
+    "main.b1b19ab6.js.map": "/Prashant-9606/pageUpload/static/js/main.b1b19ab6.js.map",
+    "787.ec704a7a.chunk.js.map": "/Prashant-9606/pageUpload/static/js/787.ec704a7a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ac5cc46f.js"
+    "static/js/main.b1b19ab6.js"
   ]
 }
